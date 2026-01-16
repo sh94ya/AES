@@ -1,12 +1,4 @@
 Эта утилита на C# предназначена для шифрования и дешифрования текста и файлов с использованием алгоритма AES (Advanced Encryption Standard). Она разработана с использованием Windows Forms в Visual Studio.
-## Содержание
-
-- [[#Описание]]
-- [[#Функционал]]
-- [[#Установка]]
-- [[#Использование]]
-- [[#Технические требования]]
-- [[#Лицензия]]
 
 ## Описание
 
@@ -28,8 +20,8 @@
 
 1. Склонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш_пользователь/AES-Encryptor.git
-cd AES-Encryptor
+git clone https://github.com/sh94ya/AES.git
+cd AES
 ```
 
 2. Откройте проект в Visual Studio (AES.sln).
